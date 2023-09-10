@@ -1,0 +1,3 @@
+F:/yamm/cmake-build-debug/CMakeFiles/yamm.dir
+F:/yamm/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/yamm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
